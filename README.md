@@ -22,7 +22,7 @@ I listened two weeks of [Introduction to Git and GitHub course](https://www.cour
 This is very clear and useful material for a beginner like me.
 I liked the lecturer's style of presentation and I have already applied some of the knowledge from this course
 
-----------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------
 
 And I completed all the tasks on the site [learngitbranching.js.org](https://learngitbranching.js.org):
 
@@ -42,6 +42,17 @@ I took a mini course Linux command line. [Linux Survival](https://linuxsurvival.
 * [Quiz #2](https://github.com/Oleg-Chistiy/kottans-frontend/blob/main/assets/task_linux_cli/Quiz%202.jpg)
 * [Quiz #3](https://github.com/Oleg-Chistiy/kottans-frontend/blob/main/assets/task_linux_cli/Quiz%203.jpg)
 * [Quiz #4](https://github.com/Oleg-Chistiy/kottans-frontend/blob/main/assets/task_linux_cli/Quiz%204.jpg)
+
+This is my first time using Linux command line. And the first meeting was successful. It was easier than I thought. 
+
+____________________________________________________________________________________________________________________________________
+
+I read two articles about HTTP:
+
+* [HTTP: The Protocol Every Web Developer Must Know—Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+* [HTTP: The Protocol Every Web Developer Must Know—Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
+
+I can say that the articles are very boring, but very useful and informative. I understand the general meaning now. And in my future work, I will study the details of the HTTPS protocol.
 
 
 
