@@ -32,7 +32,7 @@ And I completed all the tasks on the site [learngitbranching.js.org](https://lea
 This is the best trainer for learning Git. Everything is very clear and understandable. I advise everyone.
 I especially liked the commands `rebase`, `cherry-pick` and `origin`. 
 
-And also I found a friend @Nadya Vorontsova, who helps me in this course
+And I also found a friend @Nadya Vorontsova, who helps me in this course
 
 
 ## Linux CLI, and HTTP
