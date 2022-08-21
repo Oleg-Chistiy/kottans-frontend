@@ -19,7 +19,7 @@ I listened two weeks of [Introduction to Git and GitHub course](https://www.cour
 * [Introduction to Git and GitHub Week 1](https://github.com/Oleg-Chistiy/kottans-frontend/blob/main/assets/Git%20Intro/Week%201.jpg)
 * [Introduction to Git and GitHub Week 2](https://github.com/Oleg-Chistiy/kottans-frontend/blob/main/assets/Git%20Intro/Week%202.jpg)
 
-And I completed all the tasks on the site [learngitbranching.js.org](learngitbranching.js.org):
+And I completed all the tasks on the site [learngitbranching.js.org](https://learngitbranching.js.org):
 
 * [Basics](https://github.com/Oleg-Chistiy/kottans-frontend/blob/main/assets/Git%20Intro/Основи.jpg)
 * [Remote repositories](https://github.com/Oleg-Chistiy/kottans-frontend/blob/main/assets/Git%20Intro/Удаленные%20репозитории.jpg)
