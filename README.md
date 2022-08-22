@@ -14,7 +14,7 @@ I hope I get real programming knowledge here.
 
 ## Git Basics
 
-I listened two weeks of [Introduction to Git and GitHub course](https://www.coursera.org/learn/introduction-git-github):
+I listened two weeks of [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)course:
 
 * [Introduction to Git and GitHub Week 1](https://github.com/OlegChistiy/kottans-frontend/blob/main/assets/Git%20Intro/Week%201.jpg)
 * [Introduction to Git and GitHub Week 2](https://github.com/OlegChistiy/kottans-frontend/blob/main/assets/Git%20Intro/Week%202.jpg)
