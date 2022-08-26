@@ -36,6 +36,7 @@ And I also found a friend @NadiaVorontsova , who helps me in this course
 
 
 ## Linux CLI, and HTTP
+
 I took a mini course Linux command line. [Linux Survival](https://linuxsurvival.com) (4 modules):
 
 * [Quiz #1](https://github.com/OlegChistiy/kottans-frontend/blob/main/assets/task_linux_cli/Quiz%201.jpg)
@@ -53,6 +54,25 @@ I read two articles about HTTP:
 * [HTTP: The Protocol Every Web Developer Must Know—Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 
 I can say that the articles are very boring, but very useful and informative. I understand the general meaning now. And in my future work, I will study the details of the HTTPS protocol.
+
+
+## Git Collaboration
+
+I listened two weeks of [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)course:
+
+* [Introduction to Git and GitHub Week 3](https://github.com/OlegChistiy/kottans-frontend/blob/main/assets/task_git_collaboration/Week%203.jpg)
+* [Introduction to Git and GitHub Week 4](https://github.com/OlegChistiy/kottans-frontend/blob/main/assets/task_git_collaboration/Week%204.jpg)
+
+I liked this course and I really want to apply all this knowledge that was in this course. I understood that Git is a really useful tool in collaboration with other developers.
+
+____________________________________________________________________________________________________________________________________
+
+And I also completed all the tasks on the site [learngitbranching.js.org](https://learngitbranching.js.org):
+
+* [Basics](https://github.com/OlegChistiy/kottans-frontend/blob/main/assets/task_git_collaboration/Основи.jpg)
+* [Remote repositories](https://github.com/OlegChistiy/kottans-frontend/blob/main/assets/task_git_collaboration/Удаленные%20репозитории.jpg)
+
+As I said before, this is the best Git trainer for beginners like me. I'll come back here again and again to improve my skills. 
 
 
 
