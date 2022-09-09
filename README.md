@@ -75,7 +75,19 @@ And I also completed all the tasks on the site [learngitbranching.js.org](https:
 As I said before, this is the best Git trainer for beginners like me. I'll come back here again and again to improve my skills. 
 
 
+## Intro to HTML and CSS
+
+I listened two weeks of [Intro to HTML & CSS](https://www.coursera.org/learn/html-css-javascript-for-web-developers):
+
+* [Intro to HTML & CSS Week 1](https://github.com/OlegChistiy/kottans-frontend/blob/main/assets/task_html_css_intro/HTML-CSS%20Week%201.jpg)
+* [Intro to HTML & CSS Week 2](https://github.com/OlegChistiy/kottans-frontend/blob/main/assets/task_html_css_intro/HTML-CSS%20Week%202.jpg)
+
+This course is very informative and useful and easy. I liked that I understood everything the first time. Especially useful knowledge about Bootstrap.
+____________________________________________________________________________________________________________________________________
 
 
+* [Learn HTML(Eng)](https://github.com/OlegChistiy/kottans-frontend/blob/main/assets/task_html_css_intro/Learn%20HTML.jpg)
+* [Learn CSS(Eng)](https://github.com/OlegChistiy/kottans-frontend/blob/main/assets/task_html_css_intro/Learn%20CSS.jpg)
 
+I learned HTML and CSS on [Codecademy](https://www.codecademy.com). The HTML semantics became clear and I got a lot of practical work. CSS was a bit more difficult for me especially THE BOX MODEL and DISPLAY AND POSITIONING but I did it. Now I feel like I need to apply all this knowledge to a real project.
 
